@@ -46,7 +46,7 @@ span {
 
 div {
     font-family: "Lexend Deca";
-    /* border: double cornflowerblue; */
+    border: double cornflowerblue;
 }
 
 #second-row {
@@ -60,6 +60,14 @@ div {
 
 .col #rate_conversion {
     padding: 2%;
+}
+
+#equipment {
+    margin-left: 1%;
+}
+
+#images {
+    margin-left: 1%;
 }
 
 /* 
