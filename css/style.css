@@ -46,7 +46,7 @@ span {
 
 div {
     font-family: "Lexend Deca";
-    border: double cornflowerblue;
+    /* border: double cornflowerblue; */
 }
 
 #second-row {
@@ -63,45 +63,16 @@ div {
 }
 
 #equipment {
-    margin-left: 1%;
+    margin-left: 3%;
 }
 
 #images {
     margin-left: 1%;
 }
 
-/* 
-.wrapper{
-    display: flex;
+#directions {
+    margin-left: 7%;
 }
-
-.wrapper div{
-
-    flex: 1;
-}
-
-.box1 {
-    flex: 2;
-    position: relative;
-}
-
-.box1 p{
-    position: relative;
-    width: 1200px;
-}
-
-.box2 {
-    position: relative;
-    top: 110px;
-    right: 350px;
-}
-
-.box3{
-    margin-top: 50px;
-}
-
-.box4{margin-top: 50px;
-} */
 
 figure {
     padding: 15px;
