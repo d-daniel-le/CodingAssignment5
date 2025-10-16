@@ -13,8 +13,10 @@
 }
 
 body {
+    background-image: url(../images/pexels-resourceboy-18541749.jpg);
     background-color: #01311F;
     color: #FFFAF0;
+    font-family: "Permanent Marker";
 }
 
 h1, h2, h3 {
